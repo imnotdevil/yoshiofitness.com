@@ -1,0 +1,206 @@
+.body{
+    width: 100%;
+    overflow: hidden;
+}
+.body{
+    width: 100%;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+header{
+    height: 65px;
+    width: 100%;
+    background-color: white;
+    padding: 0px 0px 45px 0px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.header-logo{
+    font-size: 22px;
+    font-weight: 900;
+    margin-top:10px;
+    color: black;
+}
+.header-sub{
+    font-size: 10px;
+    color: black;
+    padding-bottom: 5px;
+}
+.YFGIDE{
+    padding: 240px 0px 240px;
+    text-align: center;
+    background-color: tomato;
+}
+.YFGIDE h1{
+color: black;
+}
+.YFGIDE p{
+color: black;
+}
+.fitting {
+    padding: 240px 0px 240px;
+    text-align: center;
+    background-color: turquoise;
+}
+.fitting h1{
+    color: black;
+}
+.fitting p{
+    color: black;
+}
+.split-box{
+    width: 50%;
+}
+.fitness{
+    background-color: violet;
+    float: left;
+    text-align: center;
+    padding: 200px 0px 200px 0px;
+    margin-bottom: 50px;
+}
+.fitness h1{
+    color: black;
+}
+.fitness p{
+    color: black;
+}
+.blog{
+     background-color: yellow;
+     float: right;
+     text-align: center;
+     padding: 200px 0px 200px 0px;
+     margin-bottom: 50px;
+}
+.blog h1{
+    color: black;
+}
+.blog p{
+    color: black;
+}
+.newarrivals{
+    text-align: center;
+    background-color: white;
+    padding: 200px 0px 200px 0px;
+}
+.newarrivals h1{
+    color: black;
+}
+.ECsite{
+    background-color: rgb(5, 104, 94);
+    padding: 230px 0px 230px 0px;
+    text-align: center;
+    margin-top: 300px;
+}
+.ECsite h1{
+    color: black;
+}
+.ECsite p{
+    color: black;
+}
+.footer-about{
+    background-color: white;
+    padding:0px 0px 200px 0px;
+    margin-top: 200px;
+    width: 100%;
+}
+.question{
+position: absolute;
+}
+.question li{
+    color: black;
+}
+.sns{
+    float: right;
+    padding-right: 40px;
+    font-size: 1.5em;
+}
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+i{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.fa-instagram{
+    color: #d93177;
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+.fa-facebook{
+    color:#1877f2;
+}
+a{
+    text-decoration: none;
+}
+.container a{
+    display: inline-block;
+}
+.contact-tittle{
+    text-align: center;
+    font-size: 10px;
+}
+.contact-tittle p{
+    font-size: 15px;
+    background-color: whitesmoke;
+    padding: 25px 0px 25px 0px;
+    margin: 0px 45px 30px 45px;
+}
+.contact-sns{
+    margin-top: 70px;
+}
+.contact-sns-tittle{
+    text-align: center;
+}
+.contact-sns-tittle p{
+    display: inline-block;
+    padding: 0px 100px 0px 100px;
+}
+.sns-icon{
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 90px;
+    margin: 0px 45px 50px 45px;
+    border-bottom: solid rgb(231, 229, 229) ;
+}
+.sns-icon li{
+    display: inline-block;
+    padding: 0px 30px 0px 30px;
+}
+.contact-form{
+    text-align: center;
+}
+.contact-forms li{
+}
+input,textarea{
+    width: 400px;
+}
+textarea{
+    padding-bottom: 300px;
+}
+.value{
+    text-align: center;
+    padding-top: 30px;
+}
+.contact-submit{
+    background-color:#dee7ec;
+    color:#889eab;
+  }
+  input[type="submit"]{
+      width: 150px;
+      height: 50px;
+      border-radius: 7%;
+  }
